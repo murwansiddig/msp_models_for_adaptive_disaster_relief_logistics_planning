@@ -1,7 +1,4 @@
-# msp_models_for_adaptive_disaster_relief_logistics_planning
-
-## this repository contains the code for the paper:
-- name: Multi-stage Stochastic Programming Methods for Adaptive Disaster Relief Logistics Planning
+# Multi-stage Stochastic Programming Methods for Adaptive Disaster Relief Logistics Planning
 - author/s:
   1. Murwan Siddig: RWTH Aachen University, [siddig@dpo.rwth-aachen.de](siddig@dpo.rwth-aachen.de)
   2. Yongjia Song:  Clemson University, [yongjis@clemson.edu](yongjis@clemson.edu)
