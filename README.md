@@ -1,5 +1,5 @@
 # Multi-stage Stochastic Programming Methods for Adaptive Disaster Relief Logistics Planning
-## author/s:
+## authors:
   1. Murwan Siddig: RWTH Aachen University, [siddig@dpo.rwth-aachen.de](siddig@dpo.rwth-aachen.de)
   2. Yongjia Song:  Clemson University, [yongjis@clemson.edu](yongjis@clemson.edu)
 ## abstract:
