@@ -1,0 +1,1 @@
+echo 2022-01-10 11:13:25 > ../output/output/runLog.423104.2100065100.txt; echo Params: 42 3 10 4.2 1000 65 100 >> ../output/output/runLog.423104.2100065100.txt; julia ../MAIN.jl 42 3 10 4.2 1000 65 100 >> ../output/output/runLog.423104.2100065100.txt
