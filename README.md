@@ -9,5 +9,5 @@ We consider a logistics planning problem of prepositioning relief items in prepa
 
 ## code:
 This repository contain two main directories: 
-- deterministic: code for situation when the hurricane landfall is *deterministic*  
-- random: code for situation when the hurricane landfall is *random*
+- **deterministic:** code for situation when the hurricane landfall is *deterministic*  
+- **random:** code for situation when the hurricane landfall is *random*
