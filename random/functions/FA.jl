@@ -327,14 +327,6 @@ function FOSDDP_eval_offline()
             end
         end        
     end
-    #=
-    cfa_fname = string("./output/cost_factor_analysis.csv")
-    df = CSV.read(cfa_fname,DataFrame);
-    reSults = Matrix(df);
-    reSults[inst,1:T] = procurmnt_amount
-    updf = DataFrame(reSults, :auto);
-    CSV.write(cfa_fname,updf)
-
     fa_bar = mean(sum(objs_fa[:,t] for t=1:T));
     fa_std = std(sum(objs_fa[:,t] for t=1:T));
     fa_low = fa_bar-1.96*fa_std/sqrt(nbOS);
